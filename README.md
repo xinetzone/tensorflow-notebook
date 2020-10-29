@@ -8,6 +8,8 @@ TensorFlow 生态系统还有着丰富的工具链。TFX 支持端到端的复�
 
 TensorFlow 开源的目标是促进人人可用的负责任的 AI (Responsible AI)，为此提供了一系列的工具加速此过程。我们推荐了最佳实践（如 People+AI Guidebook），促进公正性（比 Fairness Indicators），推动模型可解释性（促进相关研究，提供相关工具），关注隐私（比如 TF Privacy，TF Federated），以及关注安全。
 
-资源清单见：[resources](resources.md)。
+学习资源见：[resources](resources.md)、 [basic](basic.md)、[使用 Kaggle 学习 TensorFlow](kaggle.md)。
 
-@import "basic.md"
+## 学习笔记
+
+- [《动手学深度学习》(TF2.3版)](d2l-ai-TensorFlow2.3/README.md)
